@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Dependencies / wrangler
+node_modules/
+.wrangler/
+.dev.vars
+
+# Scratch / temp
+*.tmp
+*.temp
+*.partial
+*.download

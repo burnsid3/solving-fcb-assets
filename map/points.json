@@ -1,0 +1,395 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.3898, 6.5157]
+        },
+        "properties": {
+          "name": "University of Lagos",
+          "city": "Lagos",
+          "country": "Nigeria",
+          "list": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.2825, 5.1054]
+        },
+        "properties": {
+          "name": "University of Cape Coast",
+          "city": "Cape Coast",
+          "country": "Ghana",
+          "list": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.2460, 49.2606]
+        },
+        "properties": {
+          "name": "University of British Columbia",
+          "city": "Vancouver, BC",
+          "country": "Canada",
+          "list": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.6831, 45.4231]
+        },
+        "properties": {
+          "name": "University of Ottawa",
+          "city": "Ottawa, ON",
+          "country": "Canada",
+          "list": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.6665, 51.9851]
+        },
+        "properties": {
+          "name": "Wageningen University & Research (WUR)",
+          "city": "Wageningen",
+          "country": "The Netherlands",
+          "list": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.0505, 9.9360]
+        },
+        "properties": {
+          "name": "University of Costa Rica",
+          "city": "San José",
+          "country": "Costa Rica",
+          "list": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [118.0924, 24.4373]
+        },
+        "properties": {
+          "name": "Xiamen University",
+          "city": "Xiamen",
+          "country": "China",
+          "list": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [114.1581, 22.2815]
+        },
+        "properties": {
+          "name": "ADM Capital Foundation",
+          "city": "Hong Kong",
+          "country": "Hong Kong",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.0610, 42.3557]
+        },
+        "properties": {
+          "name": "Environmental Defense Fund",
+          "city": "Boston, MA",
+          "country": "USA",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.4668, 9.0389]
+        },
+        "properties": {
+          "name": "Federal Ministry of Environment",
+          "city": "Abuja",
+          "country": "Nigeria",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.4503, 48.6515]
+        },
+        "properties": {
+          "name": "Fisheries and Oceans Canada",
+          "city": "Sidney, BC",
+          "country": "Canada",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.1168, 49.2842]
+        },
+        "properties": {
+          "name": "Fraser Basin Council",
+          "city": "Vancouver, BC",
+          "country": "Canada",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.2006, 5.6361]
+        },
+        "properties": {
+          "name": "Ghana Institute of Management and Public Administration",
+          "city": "Accra",
+          "country": "Ghana",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.3591, 6.6190]
+        },
+        "properties": {
+          "name": "Lagos State Ministry of Environment and Water Resources",
+          "city": "Ikeja",
+          "country": "Nigeria",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.1868, 6.4632]
+        },
+        "properties": {
+          "name": "Lagos State University",
+          "city": "Ojo",
+          "country": "Nigeria",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.1199, 9.9413]
+        },
+        "properties": {
+          "name": "MarViva Foundation",
+          "city": "San José",
+          "country": "Costa Rica",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.3312, 52.0831]
+        },
+        "properties": {
+          "name": "Netherlands Environmental Assessment Agency",
+          "city": "The Hague",
+          "country": "The Netherlands",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.3428, 48.8458]
+        },
+        "properties": {
+          "name": "Ocean and Climate Platform",
+          "city": "Paris",
+          "country": "France",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [121.4395, 31.0256]
+        },
+        "properties": {
+          "name": "Shanghai Jiao Tong University",
+          "city": "Shanghai",
+          "country": "China",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [18.0583, 59.3647]
+        },
+        "properties": {
+          "name": "Stockholm University",
+          "city": "Stockholm",
+          "country": "Sweden",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-124.6212, 49.8824]
+        },
+        "properties": {
+          "name": "Tla’amin Nation",
+          "city": "Powell River, BC",
+          "country": "Canada",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.2460, 49.2606]
+        },
+        "properties": {
+          "name": "University of British Columbia",
+          "city": "Vancouver, BC",
+          "country": "Canada",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.2825, 5.1054]
+        },
+        "properties": {
+          "name": "University of Cape Coast",
+          "city": "Cape Coast",
+          "country": "Ghana",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.0505, 9.9360]
+        },
+        "properties": {
+          "name": "University of Costa Rica",
+          "city": "San José",
+          "country": "Costa Rica",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-2.3435, 7.3495]
+        },
+        "properties": {
+          "name": "University of Energy and Natural Resources",
+          "city": "Sunyani",
+          "country": "Ghana",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.3898, 6.5157]
+        },
+        "properties": {
+          "name": "University of Lagos",
+          "city": "Lagos",
+          "country": "Nigeria",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.6831, 45.4231]
+        },
+        "properties": {
+          "name": "University of Ottawa",
+          "city": "Ottawa, ON",
+          "country": "Canada",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [28.0301, -26.1915]
+        },
+        "properties": {
+          "name": "University of the Witwatersrand",
+          "city": "Johannesburg",
+          "country": "South Africa",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.667325902305026, 51.9875208664596]
+        },
+        "properties": {
+          "name": "Wageningen University and Research Centre",
+          "city": "Wageningen",
+          "country": "The Netherlands",
+          "list": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [100.2706, 5.2647]
+        },
+        "properties": {
+          "name": "WorldFish Center",
+          "city": "Penang",
+          "country": "Malaysia",
+          "list": 2
+        }
+      }
+    ]
+  }

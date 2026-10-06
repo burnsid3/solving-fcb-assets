@@ -1,0 +1,190 @@
+{
+  "places": [
+    {
+      "id": "canada",
+      "title": "Canada",
+      "description": "First Nations developing climate adaptation pathways for secure seafood systems",
+      "image": "/images/about/cards/ca.webp",
+      "href": "/case-studies/canada",
+      "linkLabel": "View case study",
+      "isos": ["CA"]
+    },
+    {
+      "id": "china",
+      "title": "China",
+      "description": "Expanding aquaculture to increase seafood provision and coastal carbon sequestration",
+      "image": "/images/about/cards/cn.webp",
+      "href": "/case-studies/china",
+      "linkLabel": "View case study",
+      "isos": ["CN"]
+    },
+    {
+      "id": "costa-rica",
+      "title": "Costa Rica",
+      "description": "Using nature-based solutions to restore fisheries during agricultural intensification",
+      "image": "/images/about/cards/cr.webp",
+      "href": "/case-studies/costa-rica",
+      "linkLabel": "View case study",
+      "isos": ["CR"],
+      "point": true
+    },
+    {
+      "id": "west-africa",
+      "title": "West Africa",
+      "description": "Resolving illegal fishing to enhance marine resilience and sustainable livelihoods",
+      "image": "/images/about/cards/wa.webp",
+      "href": "/case-studies/ghana-nigeria",
+      "linkLabel": "View case study",
+      "isos": ["GH", "NG"]
+    },
+    {
+      "id": "netherlands",
+      "title": "The Netherlands",
+      "description": "Developing pathways for circular and nature-inclusive food production systems",
+      "image": "/images/about/cards/nl.webp",
+      "href": "/case-studies/netherlands",
+      "linkLabel": "View case study",
+      "isos": ["NL"],
+      "point": true
+    },
+    {
+      "id": "modelling",
+      "title": "Modelling",
+      "description": "Integrating biophysical, socio-ecological, and qualitative models to inform decisions across the food–climate–biodiversity nexus",
+      "image": "/images/case-studies/banners/modelling.webp",
+      "href": "/case-studies/modelling",
+      "linkLabel": "View working group",
+      "coordinates": [-123.251082, 49.263614]
+    },
+    {
+      "id": "synthesis",
+      "title": "Synthesis",
+      "description": "Integrating methods and findings into cross-cutting insights for the food–climate–biodiversity nexus",
+      "image": "/images/case-studies/banners/synthesis.webp",
+      "href": "/case-studies/synthesis",
+      "linkLabel": "View working group",
+      "coordinates": [-123.251082, 49.263614]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "fisheries-and-oceans-canada",
+      "name": "Fisheries and Oceans Canada",
+      "city": "Sidney, BC",
+      "country": "Canada",
+      "coordinates": [-123.4503, 48.6515]
+    },
+    {
+      "id": "fraser-basin-council",
+      "name": "Fraser Basin Council",
+      "city": "Vancouver, BC",
+      "country": "Canada",
+      "coordinates": [-123.1168, 49.2842]
+    },
+    {
+      "id": "gimpa",
+      "name": "Ghana Institute of Management and Public Administration",
+      "city": "Accra",
+      "country": "Ghana",
+      "coordinates": [-0.2006, 5.6361]
+    },
+    {
+      "id": "lagos-state-university",
+      "name": "Lagos State University",
+      "city": "Ojo",
+      "country": "Nigeria",
+      "coordinates": [3.1868, 6.4632]
+    },
+    {
+      "id": "marviva",
+      "name": "MARVIVA",
+      "city": "San José",
+      "country": "Costa Rica",
+      "coordinates": [-84.1199, 9.9413]
+    },
+    {
+      "id": "tlaamin-nation",
+      "name": "Tla'amin Nation",
+      "city": "Powell River, BC",
+      "country": "Canada",
+      "coordinates": [-124.6212, 49.8824]
+    },
+    {
+      "id": "ubc",
+      "name": "University of British Columbia",
+      "city": "Vancouver, BC",
+      "country": "Canada",
+      "coordinates": [-123.246, 49.2606]
+    },
+    {
+      "id": "university-of-cape-coast",
+      "name": "University of Cape Coast",
+      "city": "Cape Coast",
+      "country": "Ghana",
+      "coordinates": [-1.2825, 5.1054]
+    },
+    {
+      "id": "university-of-costa-rica",
+      "name": "University of Costa Rica",
+      "city": "San José",
+      "country": "Costa Rica",
+      "coordinates": [-84.0505, 9.936]
+    },
+    {
+      "id": "uenr",
+      "name": "University of Energy and Natural Resources, Ghana",
+      "city": "Sunyani",
+      "country": "Ghana",
+      "coordinates": [-2.3435, 7.3495]
+    },
+    {
+      "id": "university-of-lagos",
+      "name": "University of Lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "coordinates": [3.3898, 6.5157]
+    },
+    {
+      "id": "university-of-ottawa",
+      "name": "University of Ottawa",
+      "city": "Ottawa, ON",
+      "country": "Canada",
+      "coordinates": [-75.6831, 45.4231]
+    },
+    {
+      "id": "university-of-victoria",
+      "name": "University of Victoria",
+      "city": "Victoria, BC",
+      "country": "Canada",
+      "coordinates": [-123.31268812510503, 48.4642710579092]
+    },
+    {
+      "id": "wits",
+      "name": "University of the Witwatersrand",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "coordinates": [28.0301, -26.1915]
+    },
+    {
+      "id": "wageningen",
+      "name": "Wageningen University",
+      "city": "Wageningen",
+      "country": "The Netherlands",
+      "coordinates": [5.6665, 51.9851]
+    },
+    {
+      "id": "wur-pbl",
+      "name": "Wageningen University and Research, PBL",
+      "city": "The Hague",
+      "country": "The Netherlands",
+      "coordinates": [4.3312, 52.0831]
+    },
+    {
+      "id": "xiamen",
+      "name": "Xiamen University",
+      "city": "Xiamen",
+      "country": "China",
+      "coordinates": [118.0924, 24.4373]
+    }
+  ]
+}
