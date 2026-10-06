@@ -1,0 +1,9 @@
+name = "solvingfcb-assets"
+compatibility_date = "2026-10-06"
+
+# R2 bucket for static media (podcast audio exceeds Pages' 25 MiB limit).
+# Public access: attach a custom domain in the Cloudflare dashboard
+# (R2 → bucket → Settings → Custom Domains), then set ASSETS_BASE_URL to that origin.
+[[r2_buckets]]
+binding = "ASSETS"
+bucket_name = "solvingfcb-assets"

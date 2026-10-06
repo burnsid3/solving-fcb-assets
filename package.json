@@ -1,0 +1,16 @@
+{
+  "name": "solving-fcb-assets",
+  "private": true,
+  "type": "module",
+  "description": "Solving-FCB static assets on Cloudflare R2",
+  "scripts": {
+    "build": "node scripts/generate-site.mjs",
+    "login": "wrangler login",
+    "bucket:create": "wrangler r2 bucket create solvingfcb-assets",
+    "sync": "node scripts/sync-r2.mjs",
+    "deploy": "npm run build && npm run sync"
+  },
+  "devDependencies": {
+    "wrangler": "^4.148.0"
+  }
+}
